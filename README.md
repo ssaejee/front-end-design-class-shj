@@ -1,4 +1,6 @@
-# 프론트엔드 디자인 과외
+# Front end Design Class
+프론트엔드 디자인 과외 (서혜지)
+
 ![Web Design Workflow](https://i.imgur.com/Qh7nkfG.png)
 > 프론트엔드 디자인 과외 관련 자료를 공유합니다. <br>
 > 과제는 GitHub 프로젝트를 생성해서 업데이트 합니다. <br>

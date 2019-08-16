@@ -3,8 +3,7 @@
 
 ![Web Design Workflow](https://i.imgur.com/Qh7nkfG.png)
 > 프론트엔드 디자인 과외 관련 자료를 공유합니다. <br>
-> 과제는 GitHub 프로젝트를 생성해서 업데이트 합니다. <br>
-> 과외 시간은 진도를 나가고, 질문은 Slack을 통해 받습니다.
+> 과제는 GitHub 프로젝트를 생성해여 공유합니다.
 
 <br>
 

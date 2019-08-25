@@ -58,7 +58,6 @@
 - Mobile
 - Tablet
 - Desktop
-- Wide Screen
 
 <br>
 
@@ -74,3 +73,9 @@
 - 타겟설정
 - 컨셉도출
 - 타입스케치
+
+<br>
+
+### [참고]
+[크로스브라우징 테스트 사이트](http://iloveadaptive.com/url/)
+[디바이스 사이즈 확인 사이트](http://screensiz.es/phone)

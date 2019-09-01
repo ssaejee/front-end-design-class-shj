@@ -113,14 +113,14 @@
 - 컨셉도출
 > 컨텐츠를 줄이고 브랜드를 보여주는 컨셉. 이용자들은 책을 구경하려고 들어오기보단 사려고 들어오기 때문에 많은 컨텐츠를 넣기보다는 많은 서점 브랜드 중에서 Yes24 만의 컨셉을 홍보 겸 표현하고 싶다. 
 - 타입스케치
-![웹, 태블릿, 모바일 버전 스케치](file:///C:/Users/%EC%84%9C%ED%98%9C%EC%A7%80/Downloads/%EB%85%B8%ED%8A%B8%202019.%208.%2029.%20%EC%98%A4%EC%A0%84%2019_24_02.pdf)
+[웹, 태블릿, 모바일 버전 스케치](images/wireframe.pdf)
 
 <br>
 
 ### [참고]
-[크로스브라우징 테스트 사이트](http://iloveadaptive.com/url/)
-[디바이스 사이즈 확인 사이트](http://screensiz.es/phone)
-[마크다운 문법 참고 사이트](https://gist.github.com/ihoneymon/652be052a0727ad59601)
+- [크로스브라우징 테스트 사이트](http://iloveadaptive.com/url/)
+- [디바이스 사이즈 확인 사이트](http://screensiz.es/phone)
+- [마크다운 문법 참고 사이트](https://gist.github.com/ihoneymon/652be052a0727ad59601)
 
 <br>
 
